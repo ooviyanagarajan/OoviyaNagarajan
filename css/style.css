@@ -72,10 +72,10 @@ body:after {
   .btn.btn-primary {
     background: #fab95b;
     border-color: #fab95b;
-    color: #fff; }
+    color: #123857; }
     .btn.btn-primary:hover {
-      background: #000;
-      border-color: #000;
+      background: #123857;
+      border-color: #123857;
       color: #fff; }
     .btn.btn-primary.btn-black--hover:hover {
       background: #666666;
